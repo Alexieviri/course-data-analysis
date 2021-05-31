@@ -1,13 +1,13 @@
 # Лабораторные работы по курсу "Интструменты анализа данных"
 -------
 
-1. NumPy ( Готова )
-2. Pandas ( Готова )
-3. Visual ( Готова )
-4. Classification ( Готова )
-5. Tree ( Готово )
-6. Xgboost ( Готова )
-7. Regression ( Готова )
+1. [NumPy](https://github.com/Alexieviri/course-data-analysis/blob/main/01-Numpy-Stadnikov_Aleksander.ipynb) ( Готова )
+2. [Pandas](https://github.com/Alexieviri/course-data-analysis/blob/main/02-pandas-stadnikov_aleksander.ipynb) ( Готова )
+3. [Visual](https://github.com/Alexieviri/course-data-analysis/blob/main/03-data_visualization-stadnikov_aleksander.ipynb) ( Готова )
+4. [Classification](https://github.com/Alexieviri/course-data-analysis/blob/main/04-classification-stadnikov_aleksander.ipynb) ( Готова )
+5. [Tree](https://github.com/Alexieviri/course-data-analysis/blob/main/05-decision-trees-stadnikov_aleksander.ipynb) ( Готово )
+6. [Catboost](https://github.com/Alexieviri/course-data-analysis/blob/main/06-catboost-stadnikov_aleksander.ipynb) ( Готова )
+7. [Regression](https://github.com/Alexieviri/course-data-analysis/blob/main/07-linear_regression-stadnikov_aleksander.ipynb) ( Готова )
 8. Classification text ( В процессе )
 9. Clustering ( В процессе )
 10. Dim reduce ( Не начата )
