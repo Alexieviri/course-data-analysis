@@ -8,6 +8,6 @@
 5. [Tree](https://github.com/Alexieviri/course-data-analysis/blob/main/05-decision-trees-stadnikov_aleksander.ipynb) ( Готово )
 6. [Catboost](https://github.com/Alexieviri/course-data-analysis/blob/main/06-catboost-stadnikov_aleksander.ipynb) ( Готова )
 7. [Regression](https://github.com/Alexieviri/course-data-analysis/blob/main/07-linear_regression-stadnikov_aleksander.ipynb) ( Готова )
-8. Classification text ( В процессе )
+8. [Classification text](https://github.com/Alexieviri/course-data-analysis/blob/main/08-text_classification-stadnikov.ipynb) ( Готова )
 9. Clustering ( В процессе )
 10. Dim reduce ( Не начата )
