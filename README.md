@@ -9,5 +9,5 @@
 6. [Catboost](https://github.com/Alexieviri/course-data-analysis/blob/main/06-catboost-stadnikov_aleksander.ipynb) ( Готова )
 7. [Regression](https://github.com/Alexieviri/course-data-analysis/blob/main/07-linear_regression-stadnikov_aleksander.ipynb) ( Готова )
 8. [Classification text](https://github.com/Alexieviri/course-data-analysis/blob/main/08-text_classification-stadnikov.ipynb) ( Готова )
-9. Clustering ( В процессе )
-10. Dim reduce ( Не начата )
+9. [Clustering](https://github.com/Alexieviri/course-data-analysis/blob/main/09-clustering-stadnikov.ipynb) ( Готова )
+10. Dim reduce ( В процессе )
